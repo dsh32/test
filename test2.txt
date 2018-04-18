@@ -1,4 +1,4 @@
-asdf
+Vasdf
 ASFAW
 ADFA
 ASDF
@@ -8,21 +8,16 @@ AWFAAAAAAAAAAAAAA
 
 BR11 WRITE
 
+br111 check out test
+CREAT: TAG_BR1
 
-maseter:
-maseter2:
-
-
-master after tag_remot-master
-master after tag_remot-master2
-br2master write
-br2master write2
-br2master after push
-br2master after masterbr2 push
-AFTER TAG  PUSH
-
-HAHAHHA
-CHOU BANB BEN
+WRITE BR1 
 VER.1
 VER.2
 VER.3
+VER.4
+VER.5
+branch_from_br1
+ver.1
+ver.2
+ver.3
